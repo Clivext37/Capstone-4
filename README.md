@@ -1,1 +1,2 @@
 "# Capstone-4" 
+Welcome to the first Capstone Project for this level! This Capstone is a milestone in your learning so far. In this project,you will be using object-oriented programming to create a solution for a real-world problem. You will be extending this Capstone Project in later Capstone projects. Remember, it is worth putting some extratime and effort into this project. It will eventually become part of your developer portfolio.
